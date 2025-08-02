@@ -65,8 +65,15 @@ style/
 
 ## Screenshots
 
-![Dashboard Screenshot](style/1.png) (style/1.png)(style/2.png)(style/3.png)(style/4.png)(style/5.png)(style/6.png)(style/7.png)(style/8.png) (style/9.png)
-
+![Dashboard Screenshot 1](style/1.png)
+![Dashboard Screenshot 2](style/2.png)
+![Dashboard Screenshot 3](style/3.png)
+![Dashboard Screenshot 4](style/4.png)
+![Dashboard Screenshot 5](style/5.png)
+![Dashboard Screenshot 6](style/6.png)
+![Dashboard Screenshot 7](style/7.png)
+![Dashboard Screenshot 8](style/8.png)
+![Dashboard Screenshot 9](style/9.png)
 ## License
 
 This project is Developed for the AMD Hackathon 2025.
