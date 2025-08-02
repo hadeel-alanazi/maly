@@ -100,7 +100,7 @@ foreach ($goals_with_progress as $g) {
 }
 
 
-    $apiKey = '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'; // حط هنا مفتاح API الخاص بك
+    $apiKey = '000000000000apikey000000000000000'; // please use your own api key here
 
 $data = [
     "model" => "gpt-3.5-turbo",
@@ -563,3 +563,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['save_recommendation']
 
 </body>
 </html>
+
