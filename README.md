@@ -1,7 +1,7 @@
 # maly
-# Smart Financial Assistant
+# a smart Financial Assistant
 
-Smart Financial Assistant - maly  is a web application that helps users manage their personal finances, track expenses, set financial goals, and receive AI-powered recommendations for better money management.
+ maly  is a web application that helps users manage their personal finances, track expenses, set financial goals, and receive AI-powered recommendations for better money management.
 
 ## Features
 
