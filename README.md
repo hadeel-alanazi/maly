@@ -65,7 +65,7 @@ style/
 
 ## Screenshots
 
-![Dashboard Screenshot](style/bg.jpg)
+![Dashboard Screenshot](style/1.png) (style/1.png)(style/2.png)(style/3.png)(style/4.png)(style/5.png)(style/6.png)(style/7.png)(style/8.png) (style/9.png)
 
 ## License
 
