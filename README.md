@@ -66,9 +66,9 @@ style/
 ## Screenshots
 
 ![Dashboard Screenshot 1](style/img1.png)
-![Dashboard Screenshot 2](style/img2.png)
+![Dashboard Screenshot 2](style/2.png)
 ![Dashboard Screenshot 3](style/3.png)
-![Dashboard Screenshot 4](style/4.png)
+![Dashboard Screenshot 4](style/img2.png)
 ![Dashboard Screenshot 5](style/5.png)
 ![Dashboard Screenshot 6](style/6.png)
 ![Dashboard Screenshot 7](style/7.png)
